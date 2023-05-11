@@ -1,0 +1,15 @@
+{
+  "fields": {
+      "summary": "Priority Test",
+      "description": "Let's check if this works",
+      "project": {
+          "key": "SAP"
+      },
+      "issuetype": {
+          "name": "Task"
+      },
+      "priority": {
+          "name": "Highest"
+      }
+  }
+}

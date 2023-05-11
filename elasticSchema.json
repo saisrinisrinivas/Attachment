@@ -1,0 +1,19 @@
+{
+  "MANDT": "",
+  "RFC": "",
+  "REQ_NO": "",
+  "ALERT_SEND_DATE": "",
+  "ALERT_SEND_TIME": "",
+  "EVENT_ID": "",
+  "EVENT_DESCRIPTION": "",
+  "PROGRAM_NAME": "",
+  "SEVERITY": "",
+  "RISK_DESCRIPTION": "",
+  "EVENT_CLASS": "",
+  "CATEGORIES": "",
+  "RISK_OWNER": "",
+  "ALERT_CLOSED_DATE": "",
+  "ALERT_STATUS": "",
+  "STATUS": "",
+  "INCIDENT_NO": ""
+}
